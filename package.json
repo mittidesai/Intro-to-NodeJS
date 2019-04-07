@@ -1,0 +1,19 @@
+{
+  "name": "nodefiles",
+  "version": "10.15.3",
+  "description": "Simple Web App",
+  "main": "Hello.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mittidesai/Intro-to-NodeJS.git"
+  },
+  "author": "Miti Desai",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mittidesai/Intro-to-NodeJS/issues"
+  },
+  "homepage": "https://github.com/mittidesai/Intro-to-NodeJS#readme"
+}
